@@ -27,10 +27,8 @@ O objetivo principal é demonstrar habilidades em análise de dados e visualiza�
 ## Instruções para Reprodução
 
 1.  Clone este repositório para o seu computador.
-2.  Abra o arquivo `Dashboard_Vendas_Xbox.xlsx` no Microsoft Excel.
-3.  [Caso os dados não estejam embutidos no arquivo excel, adicione instruções de como importar os dados para o excel.]
-4.  Explore as diferentes abas do dashboard e interaja com os gráficos e tabelas.
-5.  Utilize os filtros e segmentações para personalizar a visualização dos dados.
+2.  Abra o arquivo [Dashboard_Abox.xlsx.] no Microsoft Excel.
+3.  Utilize os filtros e segmentações para personalizar a visualização dos dados.
 
 ## Ferramentas Utilizadas
 * Microsoft Excel
