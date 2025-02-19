@@ -14,9 +14,8 @@ O objetivo principal é demonstrar habilidades em análise de dados e visualiza�
 
 ## Dados Utilizados
 
-* [Descreva aqui a origem dos dados, como: Dados fictícios de vendas, dados de uma API, dados extraídos de um banco de dados, etc.]
-* [Liste as colunas e informações relevantes presentes nos dados.]
-
+* Dados fictícios de vendas.
+  
 ## Funcionalidades do Dashboard
 
 * Gráficos interativos para visualizar as vendas por período, região, produto, etc.
@@ -27,7 +26,7 @@ O objetivo principal é demonstrar habilidades em análise de dados e visualiza�
 ## Instruções para Reprodução
 
 1.  Clone este repositório para o seu computador.
-2.  Abra o arquivo [Dashboard_Abox.xlsx.] no Microsoft Excel.
+2.  Abra o arquivo [Deashboard](https://github.com/siqueirago/Dashboard-Vendas-Excel/blob/main/Dashboard_Abox.xlsx) no Microsoft Excel.
 3.  Utilize os filtros e segmentações para personalizar a visualização dos dados.
 
 ## Ferramentas Utilizadas
